@@ -10,7 +10,7 @@ var dAmount2 = 200.22;
 print('dAmount1: $dAmount1 | dAmount2: $dAmount2 \n');
 
 String name1 = 'MgYe';
-var name2 = 'YeYe';
+var name2 = 'YeyeyeYe';
 
 bool isItTrue1 = true;
 var isItTrue2 = false;
